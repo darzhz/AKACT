@@ -26,7 +26,7 @@ function sleep(ms){
 
 //starting up the browser
 (async () => {
-     const site = "http://keralaresults.nic.in/dhse20bck932/dhse.htm"; // website 
+     const site = "enter site here"; // website 
     const regie = prompt('enter the register number: ');    //register number
     let name = Math.floor(Math.random()*100);               //random file name
     let start = new Date("01/Jan/2001"); //starting date    
